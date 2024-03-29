@@ -1,0 +1,31 @@
+.indie-flower-regular {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: pink;
+}
+
+  
+  .rubik-scribble-regular {
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-color: aqua;
+  }
+  
+
+.container{
+    background-color: cornflowerblue;
+    height: 100px;
+}
+
+   
+.row{
+    background-color: darkgray;
+    margin: 5px ;
+}
+.col{
+    background-color: deepskyblue;
+    margin: 5px;
+}
